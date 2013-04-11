@@ -1,0 +1,26 @@
+{
+  "name": "fundot-hold",
+  "description": "Hold functions until arguments are given",
+  "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/chapel/fundot-hold.git"
+  },
+  "homepage": "https://github.com/chapel/fundot-hold",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test"
+  },
+  "dependencies": {
+    "fundot-utils": "0.0.2",
+    "fundot-partial": "0.0.1"
+  },
+  "devDependencies": {
+    "mocha": "~1.7.4"
+  },
+  "author": {
+    "name": "Jacob Chapel",
+    "email": "jacob.chapel@gmail.com"
+  },
+  "license": "MIT"
+}
